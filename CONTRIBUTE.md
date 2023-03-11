@@ -29,7 +29,7 @@ Fill out the title and leave a comment to address your issue.
 Hit the button "Submit new issue."
 
 
-## Propose change via Pull-Request
+## Propose change via Pull Request
 
 Browse to http://augmentedleadershipmanifesto.com
 
