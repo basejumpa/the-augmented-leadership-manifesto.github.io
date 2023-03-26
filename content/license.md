@@ -1,3 +1,9 @@
+---
+title: CC BY-ND 4.0
+weight: 800
+---
+
+
 # License
 
 Copyright (C) 2022 Robert Rosho Hopp & Otmar Jenner

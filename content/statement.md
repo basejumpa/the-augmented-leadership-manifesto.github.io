@@ -1,3 +1,8 @@
+---
+title: STATEMENT
+weight: 10
+---
+
 # The Augmented Leadership Manifesto
 
 **12 principles, 12 pillars. The Acropolis of Swarm Intelligence.**

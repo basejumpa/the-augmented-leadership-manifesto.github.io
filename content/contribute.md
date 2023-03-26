@@ -1,3 +1,8 @@
+---
+title: CONTRIBUTE
+weight: 200
+---
+
 # How to contribute
 
 The contents of the Augmented Leadership Manifesto, i.e., the statement and the 12 principles, are not set in stone.\
